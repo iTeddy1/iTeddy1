@@ -1,24 +1,29 @@
 
 <div id="header" align="center">
+  <h1>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&center=true&width=435&lines=Hey+there%2C+I'm+Trung;Welcome+to+my+profile" alt="Typing SVG" /></a>
+  </h1>
+  <br>
+  
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
   <div id="badges">
-  <a href="https://www.linkedin.com/in/duytrung-nguyen1/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.facebook.com/teddyquangtri/">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-</div>
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
+    <a href="https://www.linkedin.com/in/duytrung-nguyen1/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.facebook.com/teddyquangtri/">
+      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
+    </a>
+  </div>
 </div>
 
-
-
+---
+- 🔭 I’m currently working on **Web Development**
+- 🌱 I’m currently learning **React, TypeScript**
+- 👯 I’m looking to collaborate on **Frontend Engineer (Intern Level)**
+- 📜 Portfolio link: ...
+  
+  
 ### :hammer_and_wrench: Languages and Tools :
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="Cpp" width="40" height="40"/>&nbsp;
@@ -40,9 +45,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
