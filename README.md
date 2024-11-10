@@ -34,6 +34,3 @@ I am a third-year student at the University of Information Technology. I like to
 
 <a href="https://github.com/iTeddy1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTeddy1&langs_count=10&title_color=3382ed&text_color=ec4899&icon_color=22c55e&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/iTeddy1/Frenzy-real" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iTeddy1&repo=Frenzy-real&title_color=3382ed&text_color=ec4899&icon_color=22c55e&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/iTeddy1/df-frontend-2023" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iTeddy1&repo=df-frontend-2023&title_color=3382ed&text_color=ec4899&icon_color=22c55e&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
