@@ -30,8 +30,8 @@ I am a third-year student at the University of Information Technology. I like to
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/iTeddy1"><img src="https://github-readme-stats.vercel.app/api?username=iTeddy1&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ec4899&icon_color=22c55e&bg_color=22272e&hide_border=true&show_icons=true" alt="iTeddy1's GitHub stats" /></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iTeddy1&show_icons=true&locale=en&layout=compact&theme=dracula" alt="iTeddy1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iTeddy1&show_icons=true&locale=en&theme=dracula" alt="iTeddy1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iTeddy1&theme=dracula" alt="iTeddy1" /></p>
 
-<a href="https://github.com/iTeddy1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTeddy1&langs_count=10&title_color=3382ed&text_color=ec4899&icon_color=22c55e&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<a href="https://app.daily.dev/teddy1"><img src="https://api.daily.dev/devcards/v2/wtOyOclMokmgsVVtAUnbH.png?r=dpg&type=default" width="356" alt="Nguyen Duy Trung's Dev Card"/></a>
+<a href="https://app.daily.dev/teddy1"><img src="./devcard.png" width="356" alt="Nguyen Duy Trung's Dev Card"/></a>
