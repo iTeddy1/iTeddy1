@@ -34,3 +34,4 @@ I am a third-year student at the University of Information Technology. I like to
 
 <a href="https://github.com/iTeddy1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTeddy1&langs_count=10&title_color=3382ed&text_color=ec4899&icon_color=22c55e&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<a href="https://app.daily.dev/teddy1"><img src="https://api.daily.dev/devcards/v2/wtOyOclMokmgsVVtAUnbH.png?r=dpg&type=default" width="356" alt="Nguyen Duy Trung's Dev Card"/></a>
