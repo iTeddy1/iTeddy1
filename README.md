@@ -8,7 +8,7 @@
 I am a third-year student at the University of Information Technology. I like to code things from scratch, and enjoy bringing ideas to life in the browser. My ability to work effectively in teams further complements my desire to excel in the field. I am excited to leverage these skills and contribute everything I have.
 
 * 🌍  I'm based in Ho Chi Minh
-* 🖥️  See my portfolio at [Portfolio](http://iteddy1.vercel.app/)
+* 🖥️  See my portfolio at [Portfolio](https://teddy.is-a.dev/)
 * ✉️  You can contact me at [duytrung.ng1@gmail.com](mailto:duytrung.ng1@gmail.com)
 * 🧠  I'm learning Next.js
 * ⚡  I like playing sports and video games
