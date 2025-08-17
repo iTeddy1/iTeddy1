@@ -5,7 +5,7 @@
 <h2 align='center'>Front End Developer </h2>
 
 
-I am a third-year student at the University of Information Technology. I like to code things from scratch, and enjoy bringing ideas to life in the browser. My ability to work effectively in teams further complements my desire to excel in the field. I am excited to leverage these skills and contribute everything I have.
+I am a last-year student at the University of Information Technology. I like to code things from scratch, and enjoy bringing ideas to life in the browser. My ability to work effectively in teams further complements my desire to excel in the field. I am excited to leverage these skills and contribute everything I have.
 
 * 🌍  I'm based in Ho Chi Minh
 * 🖥️  See my portfolio at [Portfolio](https://teddy.is-a.dev/)
