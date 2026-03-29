@@ -10,9 +10,7 @@ I am a last-year student at the University of Information Technology. I like to 
 * 🌍  I'm based in Ho Chi Minh
 * 🖥️  See my portfolio at [Portfolio](https://teddy.is-a.dev/)
 * ✉️  You can contact me at [duytrung.ng1@gmail.com](mailto:duytrung.ng1@gmail.com)
-* 🧠  I'm learning Next.js
 * ⚡  I like playing sports and video games
-* 👯  I’m looking to collaborate on Frontend Developer (Intern Level)
 
 ### Skills
 
